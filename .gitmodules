@@ -1,0 +1,3 @@
+[submodule "Isikukood-js"]
+	path = Isikukood-js
+	url = git@github.com:dknight/Isikukood-js.git
